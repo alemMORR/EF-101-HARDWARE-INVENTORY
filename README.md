@@ -2,7 +2,7 @@
 
 **Course:** EF-101 · Fall 2026 · System Understanding Projects
 **Project ID:** EF101-P11 · **Submission:** Week 13, Monday 9 November 2026
-**Group members:** _Name 1 (ID)_ · _Name 2 (ID)_ · _Name 3 (ID)_
+**Group members:** _Syed Ayaan (18)_ · _Mujtaba Ahmed (27)_ · _Hammad Tariq (37)_
 
 🔗 **Live demo:** [https://alemmorr.github.io/EF-101-HARDWARE-INVENTORY/](https://alemmorr.github.io/EF-101-HARDWARE-INVENTORY/)
 📦 **Run locally:** download `index.html` and double-click it. No installation, server or internet is needed (except the QR image, see Limitations).
@@ -192,6 +192,6 @@ HTML5 · CSS3 (CSS variables, grid, dark mode) · Vanilla JavaScript (no framewo
 
 | Name | Student ID | Contribution |
 |---|---|---|
-| _Name 1_ | | |
-| _Name 2_ | | |
-| _Name 3_ | | |
+| _Syed Ayaan_ | _18_ | _Search and filters, asset detail view, maintenance log_ |
+| _Mujtaba Ahmed_ | _27_ | _Retire/reactivate lifecycle, field guide, CSV exportg_ |
+| _Hammad Tariq_ | _37_ | _Asset record and validation, navigation, dashboard_ |

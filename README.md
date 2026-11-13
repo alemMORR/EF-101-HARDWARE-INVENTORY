@@ -4,7 +4,7 @@
 **Project ID:** EF101-P11 · **Submission:** Week 13, Monday 9 November 2026
 **Group members:** _Syed Ayaan (18)_ · _Mujtaba Ahmed (27)_ · _Hammad Tariq (37)_
 
-🔗 **Live demo:** [https://alemmorr.github.io/EF-101-HARDWARE-INVENTORY/](file:///C:/Users/SINGAPORE%20TRADERS/Downloads/index_FIXED_add-edit-asset.html)
+🔗 **Live demo:** [https://alemmorr.github.io/EF-101-HARDWARE-INVENTORY/]([file:///C:/Users/SINGAPORE%20TRADERS/Downloads/index_FIXED_add-edit-asset.html](https://htmlpreview.github.io/?https://github.com/alemMORR/EF-101-HARDWARE-INVENTORY/blob/main/index_FIXED_add-edit-asset.html))
 📦 **Run locally:** download `index.html` and double-click it. No installation, server or internet is needed (except the QR image, see Limitations).
 
 ---
